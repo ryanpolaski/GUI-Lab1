@@ -23,7 +23,8 @@ a pull request.
 https://github.com/ryanpolaski<br />
 
 <b>Bugs and TODO List:</b><br />
-Currently the project isnt started so there are no bugs
+Currently the project isnt started so there are no bugs. As for things TODO. First I will start by making a splash
+screen as an intro page to the game. After that I will begin the game structure and logic.
 
 <b>Inspiration:</b><br />
 Create a fun application (based on a game I played as a kid), for people of all ages to play.
